@@ -7,6 +7,9 @@ This repository contains several small python projects written for programing pr
 - Hangman
 - Number Guessing
 - Word Guessing
+- Notepad
+- Calculator
+- Lovelator
 
 ### How to use
 - Go to each project folder.
